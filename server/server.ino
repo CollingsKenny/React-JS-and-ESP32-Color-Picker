@@ -6,8 +6,8 @@
 
 #define LEDPIN 18
 
-const char *ssid = "YourSSID";
-const char *password = "YourPassword";
+const char *ssid = "CarpetMunchers";
+const char *password = "GAR666rison";
 const bool apMode = false;
 
 AsyncWebServer *server;
