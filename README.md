@@ -1,4 +1,4 @@
-# Hosting a React.JS web application from an ESP 32 using Asyc server, webpack, and more
+# Hosting a React.JS web application from an ESP 32 using Async server, webpack, and more
 
 # Introduction
 
