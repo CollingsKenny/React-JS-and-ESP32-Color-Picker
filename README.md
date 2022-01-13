@@ -48,7 +48,7 @@ We will bootstrap react with.... nothing! That's right we are going to create a 
     1.  In `src` create 2 files: `index.js`, `App.js`
     2.  In public create 2 files: `index.html` and an icon `favicon.ico`
 6.  Open the app folder in VSCode with `code .`
-7.  Lets not populate these files with some basic React boilerplate:
+7.  Lets now populate these files with some basic React boilerplate:
 
 index.js:
 
